@@ -9,5 +9,4 @@ After this you should run this :
 
 ```
 python graphic_ai_project.py
-
 ```
