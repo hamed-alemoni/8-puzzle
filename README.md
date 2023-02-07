@@ -5,3 +5,9 @@ Before run the program execute this command in your command line
 ```
 pip install PyQt5
 ```
+After this you should run this : 
+
+```
+python graphic_ai_project.py
+
+```
